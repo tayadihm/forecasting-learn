@@ -1,0 +1,9 @@
+transaction_date,project,area,account_type,amount
+2024-01-05,Project Alpha,Jakarta,Revenue,95000000
+2024-01-08,Project Alpha,Jakarta,Cost,62000000
+2024-01-12,Project Beta,Surabaya,Revenue,120000000
+2024-01-15,Project Beta,Surabaya,Cost,80000000
+2024-02-03,Project Alpha,Jakarta,Revenue,98000000
+2024-02-07,Project Alpha,Jakarta,Cost,65000000
+2024-02-10,Project Beta,Surabaya,Revenue,125000000
+2024-02-14,Project Beta,Surabaya,Cost,83000000
